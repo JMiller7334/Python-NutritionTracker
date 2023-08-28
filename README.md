@@ -9,4 +9,10 @@ College Project: A nutrition tracker: Takes user input. The program saves and di
 This is an update to my 2018 Python final project from college. I have converted the .py into an .exe file using PyInstaller.
   + The original repository can be found here: https://github.com/JMiller7334/PRG105-2018
 
+## Project Goals
++ Practice Object Oriented Programming
++ Challenge myself to better code with Python
++ Create my first functional 'Python app'
+
+
 

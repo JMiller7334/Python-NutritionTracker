@@ -6,7 +6,7 @@ College Project: A nutrition tracker: Takes user input. The program saves and di
 
 
 ## Additional Info
-This is an update to my 2018 Python Project from college where I have converted the .py into an .exe file using PyInstaller.
+This is an update to my 2018 Python final project from college where I have converted the .py into an .exe file using PyInstaller.
   + The original repository can be found here: https://github.com/JMiller7334/PRG105-2018
 
 

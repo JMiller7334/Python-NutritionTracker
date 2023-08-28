@@ -1,2 +1,12 @@
 # Python-NutritionTracker
-College Project: a nutrition tracker. Takes user inputs, saved and displays daily nutritional values.
+## Project Description
+College Project: A nutrition tracker. Takes user inputs, saves, and displays daily nutritional values.
+ * Simply run the .exe file to execute the program
+ * Code is can be viewed in the NutritionTracker.py files
+
+
+## Additional Info
+This is an update to my 2018 Python Project from college where I have converted the 
+  + The original repository can be found here: https://github.com/JMiller7334/PRG105-2018
+
+
